@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.latidude99.jetbrainspluginjavacleancodeskill
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
